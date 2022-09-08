@@ -14,7 +14,7 @@ This guide is intended to provide considerations when designing an Azure sandbox
 
 <br/>
 
-> **Note:** This is not a formal Microsoft recommendation and but rather an opinion based upon experiances I've had when trying to solve these challenges with customers I've worked with and those of my fellow Cloud Solution Architects. 
+> **Note:** This is not a formal Microsoft recommendation but rather an opinion based upon experiances I've had when trying to solve these challenges with customers I've worked with and those of my fellow Cloud Solution Architects. 
 
 <br/>
 
