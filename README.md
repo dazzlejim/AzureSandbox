@@ -10,7 +10,7 @@
 <br/><br/>
 
 ## **Overview**
-This guide is intended to provide considerations when designing an Azure sandbox solution for your organizations Microsoft Azure focused cloud development teams. It will guide you through a thought process which is intended to help map out the reguirements in a logical way and also to provide some ideas of how to meet the various sceanrios and needs of both the cloud development teams and Center IT Teams.
+This guide is intended to provide considerations when designing an Azure sandbox solution for your organizations Microsoft Azure focused cloud development teams. It will guide you through a thought process which is intended to help map out the reguirements in a logical way and also to provide some ideas of how to meet the various scenarios and needs of both the cloud development teams and Center IT Teams.
 
 <br/>
 
