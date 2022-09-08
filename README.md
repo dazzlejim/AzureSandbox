@@ -44,6 +44,12 @@ Like many things in life, you can't keep everyone happy all the time, and findin
 2. [**Lightly Managed Sandbox** - From a developer’s perspective, this is the **middle ground** where management is a **responsibly shared** between developers and Central IT Teams.](#Lightly-Managed-Sandbox)
 3. [**Isolated Sandboxes (Dedicated)** - From a developer’s perspective, things are mostly managed **by them** within the sandbox.](#Isolated-Sandboxes---Dedicated)
 
+<p align="left">
+    <img src="./images/overview.png">
+</p>
+
+> **Note:** For a side-by-side table view of the various sandbox types, [download this comparison summary][comparison] PDF.
+
 <br/>
 
 ---
@@ -365,7 +371,7 @@ Because this type of sandbox has less controls enforced and is not managed by a 
 <br/><br/>
 
 <!-- Local -->
-[Banner]: images/banner.png
+[comparison]: downloads/compare-sandbox-types.pdf
 
 <!-- External -->
 [Wikipedia]: https://en.wikipedia.org/wiki/Sandbox_(software_development)#:~:text=A%20sandbox%20is%20a%20testing%20environment%20that%20isolates,development%20including%20Web%20development%20and%20revision%20control%20.
